@@ -17,7 +17,7 @@
   .app-2CXKsg {
     background-image: var(--eminence-bg);
     background-size: cover;
-    backdrop-filter: blur(10px);
+    backdrop-filter: blur(100px);
   }
   
   .bg-1QIAus {
@@ -82,7 +82,7 @@
   
   .titleBar-1it3bQ {
     background-image: var(--eminence-bg);
-    backdrop-filter: blur(10px);
+    backdrop-filter: blur(100px);
   }
   
   .sidebarRegionScroller-FXiQOh, .contentRegionShownSidebar-fHXkEg {
@@ -194,7 +194,7 @@
   
   .quickswitcher-pKcM9U {
     background-image: var(--eminence-bg);
-    backdrop-filter: blur(10px);
+    backdrop-filter: blur(100px);
   }
   .input-3r5zZY {
     background-color: transparent;
@@ -400,7 +400,7 @@
   
   .resultsGroup-1BPR25 {
     background-image: var(--eminence-bg);
-    backdrop-filter: blur(10px);
+    backdrop-filter: blur(100px);
     color: var(--eminence-color1);
   }
   .barButtonMain-2GIx4o {
@@ -603,7 +603,7 @@
   .bodyInnerWrapper-2bQs1k,
   .footer-1Dc_h6 {
     background-image: var(--eminence-bg);
-    backdrop-filter: blur(10px);
+    backdrop-filter: blur(100px);
   }
   
   .grid-1aWVsE {
@@ -628,7 +628,7 @@
   .body-1Ukv50,
   .topSection-13QKHs {
     background-image: var(--eminence-bg);
-    backdrop-filter: blur(10px);
+    backdrop-filter: blur(100px);
   }
   
   .top-K_jibn .item-3XjbnG {
@@ -712,7 +712,7 @@
   .contentWrapper-3vHNP2,
   .categoryList-2qRrlj {
     background-image: var(--eminence-bg);
-    backdrop-filter: blur(10px);
+    backdrop-filter: blur(100px);
 }
   .header-1ULbqO {
     background-color: transparent;
@@ -755,7 +755,7 @@
   
   .theme-dark .root-g14mjS {
     background-image: var(--eminence-bg);
-    backdrop-filter: blur(10px);
+    backdrop-filter: blur(100px);
   }
   
   .theme-dark .footer-31IekZ {
@@ -792,7 +792,7 @@
   
   .header-1c1AhF {
     background-image: var(--eminence-bg);
-    backdrop-filter: blur(10px);
+    backdrop-filter: blur(100px);
   }
   
   .container-x8Y1ix,
@@ -818,7 +818,7 @@
   .container-nwU-8G,
   .uploadModal-2ie9O_ {
     background-image: var(--eminence-bg);
-    backdrop-filter: blur(10px);
+    backdrop-filter: blur(100px);
   }
   .message-24k8JL {
     background-color: var(--eminence-color2);
@@ -867,7 +867,7 @@
   
   .popoutInfo-pKbpvG {
     background-image: var(--eminence-bg);
-    backdrop-filter: blur(10px);
+    backdrop-filter: blur(100px);
   }
   
   .wrapper-2fEmwW {
@@ -897,7 +897,7 @@
   }
   #permissions-modal-wrapper .header, #permissions-modal-wrapper .perm-side, #permissions-modal-wrapper .role-side {
     background-image: var(--eminence-bg);
-    backdrop-filter: blur(10px);
+    backdrop-filter: blur(100px);
   }
   
   .replyBar-1oi75v {
