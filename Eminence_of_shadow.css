@@ -9,14 +9,14 @@
 
 */
 
-@import url('https://devevil99.github.io/devevil/BetterDiscordAddons/Theme/Ocean/Ocean.theme.css');
+
 
 :root {
-  --ocean-bg: url(https://i.imgur.com/FTxa6Pe.png);
-  --ocean-home-icon: url(https://i.imgur.com/O1PZTL7.gif);
-  --ocean-color1: #6b106e;
-  --ocean-color2: #ffffff;
-  --ocean-color3: #6b106e;
+  --eminence-bg: url(https://i.imgur.com/FTxa6Pe.png);
+  --eminence-home-icon: url(https://i.imgur.com/O1PZTL7.gif);
+  --eminence-color1: #6b106e;
+  --eminence-color2: #ffffff;
+  --eminence-color3: #6b106e;
   --watermark-filter-invert: 0%;
   --watermark-filter-sepia: 50%;
   --watermark-filter-saturate: 3000%;
