@@ -361,7 +361,6 @@
   
   .wordmark-2u86JB:after {
     filter: invert(var(--watermark-filter-invert)) sepia(var(--watermark-filter-sepia)) saturate(var(--watermark-filter-saturate)) hue-rotate(var(--watermark-filter-hue-rotate)) brightness(var(--watermark-filter-brightness)) contrast(var(--watermark-filter-contrast));
-    content: Cumzone5911;
   }
   .channelName-3KPsGw,
   .subtitle-3PyFgf {
