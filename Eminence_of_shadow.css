@@ -34,9 +34,9 @@
 :root {
   --ocean-bg: url(https://i.imgur.com/FTxa6Pe.png);
   --ocean-home-icon: url(https://i.imgur.com/O1PZTL7.gif);
-  --ocean-color1: #9b259f;
-  --ocean-color2: #b495b5;
-  --ocean-color3: #b55bba;
+  --ocean-color1: #6b106e;
+  --ocean-color2: #ffffff;
+  --ocean-color3: #6b106e;
   --watermark-filter-invert: 0%;
   --watermark-filter-sepia: 50%;
   --watermark-filter-saturate: 3000%;
