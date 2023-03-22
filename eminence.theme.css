@@ -969,6 +969,11 @@
   .headerText-10ez_d, .sidebar-nqHbhN .side-1lrxIh .item-2GWPIy, .bd-sidebar-header h2 {
     color: var(--eminence-color1);
   }
+  .side-1lrxIh .themed-qqoYp3.selected-1sf9UK.item-2GWPIy, 
+.topPill-2vcLsa .themed-qqoYp3.selected-1sf9UK.item-2GWPIy {
+    background-color: var(--eminence-color5) !important;
+}
+
   
   ::-webkit-scrollbar {
     width: 3px !important;
